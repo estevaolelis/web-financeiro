@@ -1,46 +1,75 @@
-# Web Financeiro
+# 💰 Web Financeiro
 
-Este é um projeto de gestão financeira pessoal composto por um frontend moderno e um backend robusto.
+> Um sistema moderno e robusto para gestão financeira pessoal.
 
-## 🛠 Tecnologias Utilizadas
+Este projeto é uma solução completa para controle de finanças, construído com as tecnologias mais recentes do mercado, focando em performance, escalabilidade e uma excelente experiência de usuário.
 
-### Frontend
+## 🚀 Tecnologias
 
-- **Framework:** [Next.js](https://nextjs.org/) (React)
-- **Linguagem:** TypeScript
-- **Estilização:** Tailwind CSS
-- **Requisições HTTP:** Axios
+### Frontend (Web)
 
-### Backend
+Desenvolvido com foco em modernidade e componentização:
 
-- **Framework:** .NET Core / ASP.NET Core
-- **Linguagem:** C#
+- **[Next.js 16](https://nextjs.org/)** (App Router & Server Actions)
+- **[React 19](https://react.dev/)**
+- **[Tailwind CSS v4](https://tailwindcss.com/)** para estilização
+- **[Radix UI](https://www.radix-ui.com/)** para componentes acessíveis
+- **[Lucide React](https://lucide.dev/)** para ícones
+- **NextAuth.js** para autenticação
+- **Axios** para comunicação HTTP
+
+### Backend (API)
+
+Uma API poderosa e performática:
+
+- **[.NET 10](https://dotnet.microsoft.com/)** (Preview/Latest)
+- **ASP.NET Core Web API**
+- **C#**
 
 ## 📂 Estrutura do Projeto
 
-O projeto é organizado em um monorepo contendo:
+O repositório opera como um **monorepo**, organizando o código em:
 
-- **/frontend**: Aplicação web construída com Next.js.
-- **/backend**: API construída com .NET.
+- `/frontend`: Aplicação web (Client/Server components, Hooks, Services).
+- `/backend`: API RESTful e lógica de negócios.
 
-## 🚀 Como Executar
+## 🛠️ Como Executar
 
-### Frontend
+### Pré-requisitos
 
-1. Navegue até a pasta `frontend`.
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-3. Execute o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
+- [Node.js](https://nodejs.org/) (versão LTS recomendada)
+- [.NET SDK](https://dotnet.microsoft.com/download) (versão 10 ou superior)
 
-### Backend
+### Passo a Passo
 
-1. Navegue até a pasta `backend`.
-2. Execute a aplicação:
-   ```bash
-   dotnet run
-   ```
+#### 1. Backend
+
+Navegue até a pasta do backend e execute a API:
+
+```bash
+cd backend
+dotnet run
+```
+
+#### 2. Frontend
+
+Em um novo terminal, navegue até a pasta do frontend, instale as dependências e rode o servidor:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Acesse a aplicação em: `http://localhost:3000`
+
+## ✨ Funcionalidades
+
+- **Autenticação Segura**: Login e proteção de rotas.
+- **Dashboard Financeiro**: Visão clara de receitas e despesas.
+- **Interface Responsiva**: Design adaptável para desktop e mobile.
+- **Componentes Reutilizáveis**: Arquitetura limpa utilizando Shadcn/Radix UI patterns.
+
+## 📝 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
