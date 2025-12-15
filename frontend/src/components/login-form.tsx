@@ -1,4 +1,4 @@
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/axios"
 import { Button } from "@/components/ui/button"
 import {
   Card,

@@ -31,3 +31,15 @@ C:\Users\TMB1\Documents\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10
 C:\Users\TMB1\Documents\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.pdb
 C:\Users\TMB1\Documents\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 C:\Users\TMB1\Documents\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\ref\backend.dll
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.csproj.AssemblyReference.cache
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.sourcelink.json
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.dll
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Users\estev\OneDrive\Documentos\Projetos Pessoais\web-financeiro\backend\obj\Debug\net10.0\backend.pdb
